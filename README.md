@@ -99,7 +99,14 @@ Installation
 ====================
 * [install Docker](https://docs.docker.com/install/)
 * [install docker-compose](https://docs.docker.com/compose/install/)
-*
+* docker-compose up  to build and run container
+
+admin
+================
+http://0.0.0.0:8000/admin
+user:   root
+password:ko7ko8ko9ko0
+
 URLS
 ================
 ### query
